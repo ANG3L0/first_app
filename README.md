@@ -1,4 +1,5 @@
-first_app
-=========
+# Ruby on Rails Tutorial: first application
 
-rails tut
+This is the first app for 
+[*Ruby on Rails Tutorial: Learn Rails by example*](http://railstutorial.org/)
+by [guy who wants too much credit](http://www.google.com)
